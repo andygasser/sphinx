@@ -156,7 +156,7 @@ the ``--pre`` flag.
 
 ::
 
-   $ pip install -U --pre sphinx
+   $ pip install -U --pre sphinxxll
 
 
 Docker
